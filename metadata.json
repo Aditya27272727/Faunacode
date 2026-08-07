@@ -1,0 +1,6 @@
+{
+  "name": "FaunaDecode AI",
+  "description": "Multimodal AI for bioacoustics, animal pose kinematics, and wildlife behavior decoding for field researchers and rangers.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
